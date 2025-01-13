@@ -1,9 +1,5 @@
 # 🔍 Detectify: An Object Detection Web Application
 
-![Detectify Banner](C:\Users\Sunny\Pictures\banner.png)
-
----
-
 ## 📖 Overview
 Detectify is an intuitive and robust web application for real-time object detection powered by **YOLOv5** and **Streamlit**. It allows users to upload images or capture photos using their webcam to detect and highlight objects such as cars, bikes, and people. Designed with user-friendliness and performance in mind, Detectify provides an interactive experience for exploring machine learning in object detection.
 
