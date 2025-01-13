@@ -56,11 +56,8 @@ Detectify is an intuitive and robust web application for real-time object detect
    Open your browser and navigate to http://localhost:8501.
 
 
-
-## Directory Structure
 ## 📂 Directory Structure
 
-```plaintext
 Detectify/
 │
 ├── app.py           # Main application logic
@@ -76,13 +73,12 @@ Detectify/
 
 
 
+## 📸 Screenshots
 
-## Screenshots
-
-### Home Page
+### 🏠 Home Page
 ![image](https://github.com/user-attachments/assets/98362e3f-e137-4c50-a1d6-4a75531eaf10)
 
-Object Detection Results
+### 🎯 Object Detection Results
 1. Image
    ![image](https://github.com/user-attachments/assets/7de543b0-d50d-4b2b-b9b9-2c360e43d8d7)
    ![image](https://github.com/user-attachments/assets/4a9604be-caf1-440a-a2cc-d19ada7d8854)
@@ -90,13 +86,14 @@ Object Detection Results
 2. Webcam
    ![image](https://github.com/user-attachments/assets/77ca08ee-fe1b-410f-a1e0-98a663969b4a)
 
-Future Enhancements
-Support for video file input.
-Object tracking in real-time video streams.
-Integration with cloud services for scalability.
 
-License
+## Future Enhancements
+- Support for video file input.
+- Object tracking in real-time video streams.
+- Integration with cloud services for scalability.
+
+## License
 This project is not licensed. This is completely free except the bootstrap website template.
 
-Acknowledgments
+## Acknowledgments
 We would like to thank all contributors for their efforts in developing and improving this project.
