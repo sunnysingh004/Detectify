@@ -68,7 +68,8 @@ Detectify is an intuitive and robust web application for real-time object detect
    ![image](https://github.com/user-attachments/assets/4a9604be-caf1-440a-a2cc-d19ada7d8854)
    
 2. Webcam
-   ![image](https://github.com/user-attachments/assets/77ca08ee-fe1b-410f-a1e0-98a663969b4a)
+   ![image](https://github.com/user-attachments/assets/6cf756e3-9d8d-49ac-b1bf-071f793b0a41)
+
 
 
 ## Future Enhancements
