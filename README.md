@@ -54,19 +54,7 @@ Detectify is an intuitive and robust web application for real-time object detect
 
 ## 📂 Directory Structure
 
-Detectify/
-│
-├── app.py           # Main application logic
-├── templates/       # HTML templates
-│   ├── index.html
-│   ├── upload.html
-│   ├── result.html
-│
-├── static/          # Static assets (CSS, JS, images)
-├── uploads/         # Uploaded images for processing
-├── README.md        # Project documentation
-├── requirements.txt # Python dependencies
-
+![image](https://github.com/user-attachments/assets/109f990a-8c50-4e32-87da-e203468b54d7)
 
 
 ## 📸 Screenshots
