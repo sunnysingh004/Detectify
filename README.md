@@ -78,7 +78,5 @@ Detectify is an intuitive and robust web application for real-time object detect
 - Integration with cloud services for scalability.
 
 ## License
-This project is not licensed. This is completely free except the bootstrap website template.
+This project is not licensed.
 
-## Acknowledgments
-We would like to thank all contributors for their efforts in developing and improving this project.
